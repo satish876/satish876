@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Satish kumar, currently pursuing MTech in computer science
-- 👀 I’m interested in AI, ML, NLP and Deep learning techniques
-- 🌱 I’m currently learning NLP and Deep learning techniques
-- 💞️ I’m looking to collaborate on ML projects
+- 👋 Hi, I’m Satish kumar, 
+- 👀 I’m interested in Distributed systems and Software engineering
+- 🌱 I’m currently learning the craft of Software engineering
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 Feel free to drop an email at kumarsatish876@gmail.com
 
 <!---
